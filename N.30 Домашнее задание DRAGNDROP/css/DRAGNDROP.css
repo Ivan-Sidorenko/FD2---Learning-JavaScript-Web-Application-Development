@@ -1,0 +1,7 @@
+.todrag {
+    cursor: grab;
+}
+  
+.totake {
+    cursor: grabbing;
+}

@@ -1,0 +1,79 @@
+div {
+    margin-top: 35px;
+    margin-left: 15px;
+}
+
+input {
+    margin-top: 7px;
+}
+
+.developer {
+    margin-left: 70px;
+}
+
+.namesite {
+    margin-left: 50px;
+}
+
+.urlsite {
+    margin-left: 82px;
+}
+
+.launchdate {
+    margin-left: 26px;
+    width: 170px;
+    padding-left: 7px;
+}
+
+.visitors {
+    margin-left: 13px;
+    width: 168px;
+    padding-left: 7px;
+}
+
+.email {
+    margin-left: 43px;
+}
+
+.heading {
+    margin-left: 36px;
+    width: 466px;
+    margin-top: 7px;
+}
+
+.firstradio {
+    margin-left: 72px;
+}
+
+.checkokay {
+    margin-left: 28px;
+    margin-bottom: 7px;
+}
+
+.developer, .namesite, 
+.urlsite, .email {
+    width: 453px;
+    padding-left: 7px;
+}
+
+.textarea {
+    width: 624px;
+    height: 80px;
+}
+
+
+button {
+    margin-top: 15px;
+}
+
+.invalid {
+    border: red solid 1px;
+}
+  
+#devError, #siteNameError, 
+#siteUrlError, #startDateError, 
+#usersError, #mailError,
+#choiseError, #radioError,
+#checkError, #descriptionError {
+    color: red;
+}
